@@ -1,9 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Boussettah&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <a href="https://salahboussettah.online">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Boussettah&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  </a>
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salah+Boussettah!;" />
+    <a href="https://salahboussettah.online">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salah+Boussettah!;" />
+    </a>
 </h1>
 
 <h3 align="center">A passionate Digital Creator from Morocco 🇲🇦</h3>
@@ -92,11 +96,15 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+WhatsApp!;I'm+always+down+to+collab+:)">
+    <a href="https://wa.me/+212621481944">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+WhatsApp!;I'm+always+down+to+collab+:)">
+    </a>
 </h3>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient"/>
+    <a href="mailto:boussettahsallah@gmail.com">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient"/>
+    </a>
 </div>
