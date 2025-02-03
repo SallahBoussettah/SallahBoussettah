@@ -16,9 +16,9 @@
 
 <div align="center">
  
- 🔭 I'm currently studying **Software Development at SAGIM**
+ 🔭 I'm currently studying **Software Development**
  
- 🌱 I'm currently expanding my knowledge in **Game Development and 3D Art**
+ 🌱 And expanding my knowledge in **Game Development and 3D Art**
 
  💬 Ask me about **Java, Blender, Game Dev... or anything [here](https://github.com/SallahBoussettah/SallahBoussettah/issues)**
 
