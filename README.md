@@ -1,61 +1,102 @@
-# 🎨 Salah Boussettah
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Boussettah&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+</div>
 
-**`Digital Creator (Developer/3D Artist/Game Developer)`**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salah+Boussettah!;" />
+</h1>
 
-I'm a 21-year-old developer from Morocco, building creative digital experiences through code and art. My projects range from software development to 3D modeling and game creation, combining technical expertise with artistic vision. Currently studying software development at SAGIM in Marrakech, I'm passionate about bringing ideas to life through various digital mediums.
+<h3 align="center">A passionate Digital Creator from Morocco 🇲🇦</h3>
 
-   <p align="left">
-      <a href="https://github.com/SalahBoussettah?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SalahBoussettah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/SalahBoussettah?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SalahBoussettah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<br/>
+
+<div align="center">
+ 
+ 🔭 I'm currently studying **Software Development at SAGIM**
+ 
+ 🌱 I'm currently expanding my knowledge in **Game Development and 3D Art**
+
+ 💬 Ask me about **Java, Blender, Game Dev... or anything [here](https://github.com/SallahBoussettah/SallahBoussettah/issues)**
+
+ </div>
+
+<p align="center">
+      <a href="https://github.com/SallahBoussettah?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SallahBoussettah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/SallahBoussettah?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SallahBoussettah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<div align="center"> 
+  <a href="mailto:boussettahsallah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://wa.me/+212621481944" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://salahboussettah.online" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
+</div>
 
-### 🧰 Languages and Tools
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<br/>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<h3 align="center">👨‍💻 Programming and Markup Languages</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,python,php,ts" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="48" height="48" alt="GDScript" title="GDScript"/>
+</div>
 
-#
+<h3 align="center">🎮 Game Development & 3D</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,blender" />
+    <img src="https://raw.githubusercontent.com/godotengine/godot/master/main/app_icon.png" width="48" height="48" alt="Godot" title="Godot"/>
+</div>
 
-### 🎮 Featured Projects
+<h3 align="center">🛠️ Software and Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+    <img src="https://play-lh.googleusercontent.com/ee8GjOdx7E-lS3BBKz13LNFjTiq_SS0Ag-NpyHUJLS3iWKbGRDXhtXZz6E1TNTWX7JM=s48" width="48" height="48" alt="Clip Studio Paint" title="Clip Studio Paint"/>
+    <img src="https://www.svgrepo.com/show/306070/framer.svg" width="48" height="48" alt="Framer" title="Framer"/>
+    <br>
+</div>
 
-1. **Car Animation Project**
-   - Realistic car animation using Blender and Unreal Engine 5
-   - Demonstrates 3D modeling and animation skills
+<br/>
+<hr/>
 
-2. **2D Video Game**
-   - Developed using Java
-   - Showcases programming and game development capabilities
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-3. **Digital Art Portfolio**
-   - Various digital drawings and artwork
-   - Available on Instagram and TikTok
+<hr/>
 
-#
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SallahBoussettah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SallahBoussettah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SallahBoussettah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### 📊 Stats
+<br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SallahBoussettah&show_icons=true&theme=gruvbox)
+<hr/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SallahBoussettah&layout=compact&theme=gruvbox)
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+WhatsApp!;I'm+always+down+to+collab+:)">
+</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SallahBoussettah&theme=gruvbox)](https://git.io/streak-stats)
+<br/>
 
-#
-
-### 🎓 Education
-
-- **SAGIM Marrakech** - Software Development
-- **FSSM (La Faculté des Sciences Semlalia)** - 1 year of Biology
-- **High School** - Baccalaureate in Physics and Chemistry
-
-[website]: https://salahboussettah.github.io
-[portfolio]: https://salahboussettah.online
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient"/>
+</div>
