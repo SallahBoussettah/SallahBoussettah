@@ -43,11 +43,11 @@ I'm a 21-year-old developer from Morocco, building creative digital experiences 
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahBoussettah&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SallahBoussettah&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahBoussettah&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SallahBoussettah&layout=compact&theme=gruvbox)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalahBoussettah&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SallahBoussettah&theme=gruvbox)](https://git.io/streak-stats)
 
 #
 
