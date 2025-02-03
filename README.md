@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I'm currently studying **Software Development at SAGIM**
+ 🔭 I'm currently studying **Software Development**
  
  🌱 I'm currently expanding my knowledge in **Game Development and 3D Art**
 
