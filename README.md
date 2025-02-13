@@ -10,7 +10,7 @@
     </a>
 </h1>
 
-<h3 align="center">A passionate Digital Creator from Morocco 🇲🇦</h3>
+<h3 align="center">A passionate Digital Creator 🇲🇦</h3>
 
 <br/>
 
