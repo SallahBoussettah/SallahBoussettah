@@ -78,10 +78,15 @@ const salah = {
 <summary><h2>🚀 Latest Projects</h2></summary>
 
 <div align="center">
-  <!-- GitHub API doesn't allow filtering out specific repositories in the automatic cards,
-       so we'll use a more elegant approach with just the activity graph -->
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sallahboussettah&repo=Sallahboussettah&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sallahboussettah&repo=Sallahboussettah&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <p><em>This section displays my latest commit, sometimes it will display my profile repository. To explore all my projects including the most recent ones, please use the button below:</em></p>
   
-  <a href="https://github.com/Sallahboussettah?tab=repositories&sort=created&direction=desc">
+  <a href="https://github.com/Sallahboussettah?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-0A2647?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -89,7 +94,6 @@ const salah = {
 <br/>
 
 <div align="center">
-  <h3>Contribution Activity</h3>
   <picture>
     <source 
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sallahboussettah&bg_color=1a1b27&color=628fda&line=38bcad&point=FFFFFF&area=true&hide_border=true"
@@ -119,7 +123,7 @@ const salah = {
 
 </details>
 
-<details open>
+<details>
 <summary><h2>🐍 Contribution Graph</h2></summary>
 
 <div align="center">
