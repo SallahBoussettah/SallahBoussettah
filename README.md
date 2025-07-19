@@ -1,75 +1,88 @@
 <div align="center">
   <a href="https://salahboussettah.online">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=180&section=header&text=Salah%20Boussettah&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=180&section=header&text=Salah%20Boussettah&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Software%20Developer%20|%20Game%20Developer%20|%20Digital%20Artist&descAlignY=55&descSize=14"/>
   </a>
 </div>
 
 <div align="center">
-  <h3>Software Developer | Game Developer | Digital Artist</h3>
-  <p>Exploring the intersection of technology, art, and interactive experiences</p>
+  <p><em>Crafting elegant solutions at the intersection of code, art, and interactive media</em></p>
 </div>
 
 <div align="center">
-  <a href="mailto:boussettahsallah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:boussettah.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/+212621481944" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://salahboussettah.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  <a href="https://boussettahsalah.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A2647?style=flat-square&logo=safari&logoColor=white" /> 
   </a>
-  <a href="https://github.com/Sallahboussettah?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Sallahboussettah?style=for-the-badge&logo=github&color=0A2647&logoColor=white"/>
+  <a href="https://github.com/Sallahboussettah?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Sallahboussettah?style=flat-square&logo=github&color=0A2647&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salah-eddine-boussettah-349a9a34b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-## About Me
+<details open>
+<summary><h2>📋 About Me</h2></summary>
 
-- 🔭 Currently studying **Software Development**
-- 🌱 Expanding expertise in **Game Development and 3D Art**
-- 🌍 Based in **Morocco**
-- 💬 Open to discussions about **Java, Blender, Game Development**
-- 🚀 Passionate about creating immersive digital experiences
+```javascript
+const salah = {
+  location: "Morocco",
+  education: "Software Development",
+  specialization: ["Game Development", "3D Art", "Web Development"],
+  currentFocus: "Creating immersive digital experiences",
+  interests: ["Interactive Media", "Game Design", "3D Modeling"]
+};
+```
 
-<br/>
+- 🎓 Software developer with a passion for creating interactive experiences
+- 🎮 Focused on game development and 3D art creation
+- 💻 Constantly learning and improving my technical skillset
+- 🌟 Dedicated to clean, efficient, and well-structured code
+- 🤝 Open to collaboration on innovative projects
 
-## Technical Expertise
+</details>
+
+<details open>
+<summary><h2>🛠️ Technical Stack</h2></summary>
 
 <div align="center">
-  <h3>Programming & Markup Languages</h3>
+  <h3>Programming & Markup</h3>
   <img src="https://skillicons.dev/icons?i=html,css,java,js,python,php,ts,react" />
-</div>
-
-<div align="center">
+  
   <h3>Game Development & 3D</h3>
   <img src="https://skillicons.dev/icons?i=unreal,unity,blender" />
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="48" height="48" alt="Godot"/>
-</div>
-
-<div align="center">
+  
   <h3>Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </div>
 
-<br/>
+</details>
 
-## Statistics
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sallahboussettah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sallahboussettah&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sallahboussettah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sallahboussettah&count_private=true&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sallahboussettah&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sallahboussettah&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<br/>
+</details>
 
-## Contributions
+<details>
+<summary><h2>🐍 Contribution Graph</h2></summary>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sallahboussettah/Sallahboussettah/output/github-contribution-grid-snake-dark.svg">
@@ -78,10 +91,21 @@
   </picture>
 </div>
 
+</details>
+
+<details>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sallahboussettah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+</details>
+
 <br/>
 
 <div align="center">
   <a href="https://salahboussettah.online">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=120&section=footer&text=Let's%20Connect&fontSize=36&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF"/>
   </a>
 </div>
