@@ -6,12 +6,6 @@
 
 <div align="center">
   <p><em>Crafting elegant solutions at the intersection of code, art, and interactive media</em></p>
-  
-  <a href="https://boussettahsalah.online/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A2647?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=Sallahboussettah&style=flat-square&color=0A2647" alt="Profile Views"/>
 </div>
 
 <div align="center">
