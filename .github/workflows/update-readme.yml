@@ -16,7 +16,7 @@ jobs:
       - name: Waka Readme Stats
         uses: anmol098/waka-readme-stats@master
         env:
-          GH_TOKEN: ${{ secrets.WAKA_PAT }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
