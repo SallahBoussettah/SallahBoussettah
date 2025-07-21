@@ -72,9 +72,7 @@ const salah = {
 <summary><h2>🚀 Latest Projects</h2></summary>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sallahboussettah&repo=Sallahboussettah&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sallahboussettah&repo=Sallahboussettah&theme=tokyonight&hide_border=true" />
-  </a>
+   <!--START_SECTION:latest-repo--> <!--END_SECTION:latest-repo-->
 </div>
 
 <div align="center">
