@@ -2,25 +2,21 @@ name: Update README with latest repo
 
 on:
   schedule:
-    - cron: "0 * * * *" # every hour
+    - cron: "0 * * * *"  # Every hour
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Use Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Install and run GitHub Readme Stats fork
+      - name: Waka Readme Stats
         uses: anmol098/waka-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.WAKA_PAT }}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
