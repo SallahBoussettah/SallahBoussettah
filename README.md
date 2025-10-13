@@ -126,9 +126,6 @@ const salah = {
   </picture>
 </div>
 
-</details>
-
-<details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
 
 <div align="center">
