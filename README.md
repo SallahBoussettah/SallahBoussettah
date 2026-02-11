@@ -1,86 +1,96 @@
 <div align="center">
-  <a href="https://boussettahsalah.online/">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=180&section=header&text=Salah%20Boussettah&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Software%20Developer%20|%20Game%20Developer%20|%20Digital%20Artist&descAlignY=55&descSize=14"/>
-  </a>
-</div>
-
-<div align="center">
-  <p><em>Crafting elegant solutions at the intersection of code, art, and interactive media</em></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=180&section=header&text=Salah%20Boussettah&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Founder%20of%20hisab.ma%20%7C%20I%20ship%20production%20apps%20in%20weeks%2C%20not%20months&descAlignY=55&descSize=14"/>
 </div>
 
 <div align="center">
   <a href="mailto:boussettah.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/+212621481944" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <a href="https://hisab.ma" target="_blank">
+    <img src="https://img.shields.io/badge/Hisab.ma-0A2647?style=flat-square&logo=safari&logoColor=white" />
   </a>
-  <a href="https://boussettahsalah.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A2647?style=flat-square&logo=safari&logoColor=white" /> 
+  <a href="https://3d.boussettah.tech" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-1a1b27?style=flat-square&logo=threedotjs&logoColor=white" />
   </a>
-  <a href="https://github.com/Sallahboussettah?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sallahboussettah?style=flat-square&logo=github&color=0A2647&logoColor=white"/>
+  <a href="https://x.com/SalahBoussettah" target="_blank">
+    <img src="https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/salah-eddine-boussettah-349a9a34b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+212621481944" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<details open>
-<summary><h2>📋 About Me</h2></summary>
+## 🚀 About Me
 
 ```javascript
 const salah = {
-  location: "Morocco",
-  education: "Software Development",
-  specialization: ["Game Development", "3D Art", "Web Development"],
-  currentFocus: "Creating immersive digital experiences",
-  interests: ["Interactive Media", "Game Design", "3D Modeling"],
-  languages: ["English", "French", "Arabic"]
+  location: "Marrakech, Morocco 🇲🇦",
+  role: "Solo Founder & Full Stack Developer",
+  company: "hisab.ma - Morocco's e-invoicing platform",
+  stack: ["React Native", "Next.js", "TypeScript", "Supabase", "Node.js", "Expo"],
+  languages: ["English", "French", "Arabic"],
+  available: "Open for client projects - DM me",
 };
 ```
 
-- 🎓 Software developer with a passion for creating interactive experiences
-- 🎮 Focused on game development and 3D art creation
-- 💻 Constantly learning and improving my technical skillset
-- 🌟 Dedicated to clean, efficient, and well-structured code
-- 🤝 Open to collaboration on innovative projects
-- 🔍 Strong problem-solving abilities with attention to detail
+<br/>
 
-</details>
-
-<details open>
-<summary><h2>🛠️ Technical Stack</h2></summary>
+## 🧾 Hisab - Morocco's E-Invoicing Platform
 
 <div align="center">
-  <h3>Programming & Markup</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,python,php,ts,react" />
-  
-  <h3>Game Development & 3D</h3>
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender" />
-  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="48" height="48" alt="Godot"/>
-  
-  <h3>Development Tools & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,nodejs,mysql,mongodb,firebase" />
+  <a href="https://hisab.ma" target="_blank"><img src="https://img.shields.io/badge/Live-hisab.ma-0A2647?style=for-the-badge"/></a>
 </div>
 
-</details>
+<br/>
 
-<details open>
-<summary><h2>🚀 Latest Projects</h2></summary>
+Built and launched **solo in under 30 days**. Production SaaS serving Moroccan businesses ahead of the 2026 DGI e-invoicing mandate.
+
+- 🇲🇦 Bilingual invoicing - French & Arabic
+- 📄 UBL 2.1 XML export with XSD + Schematron validation
+- 🔐 SHA-256 cryptographic integrity chains & digital signatures
+- 📱 QR code verification for every invoice
+- 🏢 Multi-organization management for accountants
+- 💰 Automated VAT declarations & tax calculations
+- 📦 10-year immutable archiving
+
+**Stack:** Next.js · Supabase · TypeScript · Stripe · Vercel
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-   <!--START_SECTION:latest-repo--> <!--END_SECTION:latest-repo-->
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+
+**Backend & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mongodb,mysql,vercel" />
+
+**Tools & Creative**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender,unity,threejs" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sallahboussettah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sallahboussettah&count_private=true&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <p><em>This section displays my latest commit, sometimes it will display my profile repository. To explore all my projects including the most recent ones, please use the button below:</em></p>
-  
-  <a href="https://github.com/Sallahboussettah?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0A2647?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sallahboussettah&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -99,64 +109,18 @@ const salah = {
   </picture>
 </div>
 
-</details>
+<br/>
 
-<details open>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+## 💬 Work With Me
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sallahboussettah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sallahboussettah&count_private=true&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</div>
+I build **full production apps** - mobile and web - and I ship fast.
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sallahboussettah&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-</details>
-
-<details>
-<summary><h2>🐍 Contribution Graph</h2></summary>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sallahboussettah/Sallahboussettah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sallahboussettah/Sallahboussettah/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sallahboussettah/Sallahboussettah/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-</details>
-
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sallahboussettah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-</details>
-
-<details>
-<summary><h2>💡 Development Philosophy</h2></summary>
-
-<div align="center">
-  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
-</div>
-
-- **Performance**: Optimize for efficiency and speed
-- **Readability**: Write clean, self-documenting code
-- **Modularity**: Design reusable components with clear responsibilities
-- **Testing**: Ensure reliability through comprehensive testing
-- **Documentation**: Provide clear, concise documentation
-- **User Experience**: Focus on intuitive and responsive interfaces
-
-</details>
+- 📧 boussettah.dev@gmail.com
+- 💬 [WhatsApp](https://wa.me/+212649224364)
+- 🐦 [@SalahBoussettah](https://x.com/SalahBoussettah)
 
 <br/>
 
 <div align="center">
-  <a href="https://boussettahsalah.online/">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF"/>
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=120&section=footer&text=Let's%20Build%20Something%20Together&fontSize=20&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF"/>
 </div>
