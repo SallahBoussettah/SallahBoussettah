@@ -58,7 +58,7 @@ Built and launched **solo in under 30 days**. Production SaaS serving Moroccan b
 - 💰 Automated VAT declarations & tax calculations
 - 📦 10-year immutable archiving
 
-**Stack:** Next.js · Supabase · TypeScript · Stripe · Vercel
+**Stack:** Next.js · Drizzle · TypeScript · Vercel
 
 <br/>
 
