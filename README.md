@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/salah-eddine-boussettah-349a9a34b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/+212621481944" target="_blank">
+  <a href="https://wa.me/+212649224364" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </div>
